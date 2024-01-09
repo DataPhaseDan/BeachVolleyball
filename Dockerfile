@@ -12,6 +12,7 @@ COPY ./tsconfig.json /usr/local/beach_volley_ball/
 
 
 WORKDIR /usr/local/beach_volley_ball/db_fill
+RUN mkdir -p /usr/local/beach_volley_ball/db_fill/json
 # Install the application dependencies inside the Docker container
 RUN npm install
 
