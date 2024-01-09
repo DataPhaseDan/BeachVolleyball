@@ -1,0 +1,31 @@
+Aufgabe:
+Erstellen Sie mit einer Technologie ihrer Wahl eine Webseite, die auf Benutzerwunsch interaktive Übersichtspläne für Spiele in einem Beachvolleyballevent / -turnier darstellt.
+
+Die Daten können aus dem Web anhand der in VisSDK beschriebenen requests abgerufen werden.
+
+A Vorbereitung
+1. Analysieren Sie die Datenquelle
+2. Erzeugen Sie ein ausreichend großes Datenmodell, sodass die wesentlichen Spielinformationen enthalten und für den Benutzer dargestellt werden können
+
+B Proof of concept
+1. Holen Sie sich zunächst mit einer Methode ihrer Wahl die Daten vom Server und schreiben Sie die Daten in ihre Datenbank
+2. Erzeugen Sie eine Datenbankabfrage, die ihnen die darzustellenden Informationen liefert
+3. Erzeugen Sie aus den Daten eine prototypische Ausgabe
+
+C Userinteraktion
+1. Überlegen und beschreiben Sie use cases welche die Interaktion des Benutzers mit ihrer Seite abbilden
+
+D Technologisches Setup
+1. Richten Sie ein GIT-Repository für versioniertes Entwickeln und gegebenenfalls Teamzusammenarbeit ein
+2. Überlegen Sie sich die Technologie mit der Sie die Seite umsetzen wollen
+3. Erzeugen Sie Dockerfiles, mit denen Sie die gewählte Technologie vom Produktionssystem ins Livesystem portieren können
+
+E Testing
+1. Überlegen Sie sich Testszenarien und wie diese getestet werden können
+
+F Implementation
+1. Implementieren Sie die Webseite mit der von ihnen gewählten Technologie
+2. Führen Sie ihre Tests
+
+G Deployment
+1. Führen Sie ihre Entwicklung in das Livesystem über

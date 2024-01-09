@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "BeachMeach",
+            "database": "BeachVolleyBall",
+            "username": "postgres",
+            "connectString": "postgresql://postgres:password@localhost:5432/BeachVolleyBall"
+        }
+    ]
+}
