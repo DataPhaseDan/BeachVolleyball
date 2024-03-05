@@ -1,3 +1,5 @@
+**All Data gathered over the official webservice https://www.fivb.org/VisSDK/VisWebService/#Introduction.html and the services run inside docker container**
+
 
 ```XML
 https://www.fivb.org/Vis2009/XmlRequest.asmx?Request=%3CRequest%20Type=%27GetBeachMatchList%27%20/%3E
